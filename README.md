@@ -1,5 +1,8 @@
 # Analyse de données de ressources humaines
 
+<img width="571" height="340" alt="Capture d’écran 2025-11-04 000234" src="https://github.com/user-attachments/assets/11b13770-6a87-44a4-81b8-8c14b823d721" />
+
+
 ## Vue d'ensemble du projet
 
 Conduite d'une analyse exploratoire sur les performances et l’attrition du personnel afin d’identifier les facteurs clés associés au départ des employés. À partir de données RH anonymisées, j’ai construit des visualisations interactives (Power BI) pour croiser les indicateurs de performance, de satisfaction et d’ancienneté. L’étude a permis de mettre en évidence le rôle déterminant du taux d’heures supplémentaires et de la fréquence des voyages d'affaires dans la rétention des employés
