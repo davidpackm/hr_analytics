@@ -7,13 +7,23 @@ Conduite d'une analyse exploratoire sur les performances et l’attrition du per
 ## Tâches du projet
 
 Pour accomplir notre projet, nous avons essentiellement utilisé le logiciel PowerBI. Nous en avons utilisés les différents outils pour chaque phase du projet :
-- PowerQuery pour le nettoyage des données et la prépapration des données
-- Modélisation des données
-- Analyse exploratoire des données et évaluation des tendances
-- Analyse des données démographiques et des performances des employés
-- Procéder à des calculs avancés pour déterminer l'attrition
-- Création d'un rapport
+- Power BI : exploration et visualisation interactive
+- Power Query : nettoyage, fusion et transformation des données
+- DAX : création de mesures et indicateurs personnalisés
 
-## Conduite du projet
+## Tâches réalisées
+- Nettoyage et préparation des données via Power Query (gestion des valeurs manquantes, typage, normalisation des champs).
+- Modélisation des données : création de relations entre tables (employés, départements, performances, voyages, etc.).
+- Analyse exploratoire : étude des distributions, corrélations et tendances liées à l’attrition.
+- Analyse démographique et de performance : comparaison selon l’âge, le genre, le département, le niveau de satisfaction.
+- Calculs avancés : formulation de mesures DAX pour quantifier l’attrition, les mesures de satisfaction de l'environnement de travail
+- Création du tableau de bord Power BI : visualisations interactives (barres, cartes thermiques, slicers, filtres dynamiques)
 
-### Nettoyage des données
+## Résultats principaux
+- Identification des principaux profils à risque d'attrition
+- Mise en évidence d'une corrélation entre la fréquence de voyage et le taux d'attrition
+- Proposition d’un tableau de bord RH permettant d’explorer les indicateurs de rétention en temps réel.
+
+## Perspectives
+- Intégration de modèles prédictifs de churn RH (via Python / Power BI Desktop).
+- Création d’un rapport automatisé pour le suivi mensuel des indicateurs de rétention.
